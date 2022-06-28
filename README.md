@@ -34,10 +34,11 @@ John-Cho-Resume-public-0208d6fec948496c95ecb031a583010c)
 
 ## 이력서 관련 블로그 글/문서 모음
 
+### 이력서
+
 * [좋은 이력서와 나쁜 이력서
 ](https://velog.io/@yukina1418/%EC%A2%8B%EC%9D%80-%EC%9D%B4%EB%A0%A5%EC%84%9C%EC%99%80-%EB%82%98%EC%81%9C-%EC%9D%B4%EB%A0%A5%EC%84%9C)
 * [비전공자 취준생 개발자 이력서 팁
 ](https://velog.io/@mjhuh263/no-cs-degree-resume-tips)
 * [이수진님 非개발자에서 🦅 飛개발자로](https://sujinlee.me/51conf-2020/)
 * [이직초보 어느 개발자의 이력서 만들기 - 우아한 형제들 기술 블로그/구인본님](https://techblog.woowahan.com/2531/)
-* 
